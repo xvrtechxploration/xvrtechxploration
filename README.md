@@ -2,11 +2,19 @@
 
 Hello there!
 
-I'm Xavier. I'm currently trying to make a career change into IT.
+I'm Xavier.
+I'm a tech enthusiast looking to make a career in IT.
+Here are some projects of mine to showcase my technical skills and all the exciting stuff that I'm learning!
 
-I'm currently learning a lot and and expanding my skills through my homelab practice. 
-I'm running Ubuntu on a Raspberry Pi that is serving as my home server.
-I have several projects that I am working on that are mainly focused on running services through Docker containers.
-I am most excited about learning Linux and System Administration.
+## Certifications:
+- **CompTIA A+**
 
-I'm looking forward to sharing all my projects through github and am open to any feedback!
+## [Home Server:](https://github.com/xvrtechxploration/homeserver.git)
+- [Ubuntu Installation on Raspberry Pi](https://github.com/xvrtechxploration/homeserver/blob/main/Raspberry-Pi/Ubuntu-Install.MD)
+- [Docker Compose Templates](https://github.com/xvrtechxploration/homeserver/tree/main/docker)
+
+## Active Directory:
+
+## Notes:
+
+## Cheat Sheets:
